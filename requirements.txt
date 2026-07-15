@@ -1,0 +1,6 @@
+Flask==3.0.3
+requests==2.32.3
+pycryptodome==3.23.0
+protobuf==6.31.1
+urllib3==2.5.0
+gunicorn==23.0.0
